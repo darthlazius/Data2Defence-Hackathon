@@ -161,10 +161,10 @@ Develop a method to detect GPS spoofing attacks.
 
 Projects will be evaluated based on the following criteria:
 
-- **Implementation of judges' recommendations (30%)**
-- **Technical execution (25%)**
-- **Creativity and innovation (25%)**
-- **Final presentation quality (20%)**
+- **Implementation of judges' recommendations**
+- **Technical execution**
+- **Creativity and innovation**
+- **Final presentation quality**
 
 ## Feedback Mechanism
 
