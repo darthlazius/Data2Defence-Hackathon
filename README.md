@@ -180,6 +180,6 @@ Projects will be evaluated based on the following criteria:
 
 ## Resources
 
-- Starter code templates available in the GitHub repo.
+- Beginner friendly approaches to the problems available in the GitHub repo.
 - Online tutorials and documentation links provided.
 - For full details, rules, and resources, visit our GitHub repository: **Data2Defence GitHub Repo**
